@@ -1,0 +1,16 @@
+{
+  "name": "furhex-kur",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "furhex",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "johnny-five": "^2.1.0"
+  }
+}
